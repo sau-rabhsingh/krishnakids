@@ -1,0 +1,42 @@
+@charset 'utf-8';
+/*
+ Theme Name: Kidsplanet Child
+ Theme URI: http://kidsplanet.ancorathemes.com/
+ Description: Kidsplanet - Multipurpose and Multiskin Responsive WordPress theme
+ Author: AncoraThemes
+ Author URI: http://ancorathemes.com/
+ Template:     kidsplanet
+ Version:      1.9
+ Tags:         inheritable theme-options
+ Text Domain:  themerex-child
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+/* .slider_alias_kidsplanet_slider_1{
+    height: 500px;
+} */
+p{
+    font-size: 18px;
+    line-height: 31px;
+}
+.sc_list_style_iconed a {
+    color: rgb(4, 0, 248) !important;
+}
+.activities-head{
+    font-size: 20px;
+    line-height: 40px;
+}
+.activities p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+}
+.activities p img{
+    height: 230px;
+    padding-bottom: 5px;
+}
+
